@@ -12,11 +12,12 @@ My interests lie at the intersection of **Machine Learning, Explainable AI, and 
 - CGPA: 8.9/10
 
 ### 💼 Professional Experience
-**Cybersecurity Analyst | Cognizant**
+
+**Cybersecurity Engineer (Identity & Access Management) | Cognizant**
 
 - Working in Identity and Access Management (IAM) operations.
 - Experience with SailPoint IIQ, Microsoft Entra ID, Active Directory, and ServiceNow.
-- Exposure to identity provisioning, access management, RBAC, and directory services.
+- Involved in identity provisioning, access management, RBAC, and directory services.
 
 ### 🧠 Areas of Interest
 - Machine Learning and Applied AI
