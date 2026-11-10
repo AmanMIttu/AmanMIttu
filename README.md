@@ -2,7 +2,7 @@
 
 ### Computer Science Graduate | Aspiring AI & Machine Learning Researcher
 
-I'm a Computer Science graduate specialising in Data Science, currently working as a Cybersecurity Analyst at Cognizant. I'm interested in building practical, data-driven solutions using Machine Learning, Explainable AI, and intelligent systems.
+I'm a Computer Science graduate specialising in Data Science, currently working as a Cybersecurity Engineer at Cognizant. I'm interested in building practical, data-driven solutions using Machine Learning, Explainable AI, and intelligent systems.
 
 My interests lie at the intersection of **Machine Learning, Explainable AI, and Hybrid AI**, particularly in developing systems that combine predictive capabilities with transparent, interpretable reasoning.
 
