@@ -1,4 +1,4 @@
-# Hi, I'm Aman Shaik 👋
+# Hi, I'm Aman 👋
 
 ### Computer Science Graduate | Aspiring AI & Machine Learning Researcher
 
